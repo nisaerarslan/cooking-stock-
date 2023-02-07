@@ -1,0 +1,1 @@
+title_font = ("Comic Sans MS", 20, "bold")
